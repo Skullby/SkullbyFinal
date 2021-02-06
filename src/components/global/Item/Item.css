@@ -1,0 +1,16 @@
+.items {
+    border: 3px #CCCC00 solid;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+.items:hover {
+    box-shadow: 0 0 0.8rem black;
+}
+
+.navLink{
+    text-decoration: none;
+    color: black;
+}
+

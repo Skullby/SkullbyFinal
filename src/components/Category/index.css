@@ -1,0 +1,17 @@
+.categorias {
+    padding: 4rem 0;
+}
+
+
+.categorias ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    
+}
+
+.categorias ul li {
+    width: 20%;
+    list-style-type: none;
+    position: relative;
+}

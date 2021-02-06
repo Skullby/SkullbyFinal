@@ -1,0 +1,6 @@
+.itemList div ul li {
+    display: inline-table;
+    width: 90%;
+    justify-content: space-between;
+    height: 1rem;
+}

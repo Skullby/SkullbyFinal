@@ -1,0 +1,40 @@
+.itemDetail {
+
+}
+
+.imgDetail  {
+    width: 25%;
+    border: black solid 2px;
+    margin-left: 10px;
+    position: relative;
+    top: 6px;
+    background-color:#D3D3D3 ;
+    
+}
+
+.descripcion  {
+    margin-left: 4rem;
+    text-rendering: optimizeLegibility;
+    max-width: 25vmax;
+    border: black solid 2px;
+    border-radius: 5px;
+}
+
+
+
+.descripcion button {   
+    background-color: grey; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+}
+
+.descripcion button:hover {
+    background-color: #BDB76B; 
+    color: white;
+}

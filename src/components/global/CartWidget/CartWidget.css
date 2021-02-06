@@ -1,0 +1,45 @@
+.cartWidget {
+    height: 120vh;
+    width: 30%;
+    position: fixed;
+    right: 0;
+    top: 0;
+    background:white;
+    z-index: 3;
+    box-shadow: -0.3rem 0 0.3rem rgba(0, 0, 0, 0.2);
+  }
+  
+  
+
+  .close {
+    display: none;
+  }
+  
+  .open {
+    display: block;
+  }
+
+.button {
+    cursor: pointer;
+    
+}
+
+.cLink {
+  text-decoration: none;
+  background-color: #D3D3D3;
+  border: #D3D3D3 solid 2px;
+  border-radius: 4px;
+  color:black;
+  text-align: center;
+  
+}
+
+div button{
+  text-decoration: none;
+  background-color: #D3D3D3;
+  border: #D3D3D3 solid 2px;
+  border-radius: 2px;
+  color:black;
+  text-align: center;
+  
+}
