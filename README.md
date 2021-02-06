@@ -1,6 +1,10 @@
-Entrega Intermedia: 
-El proyecto es sobre un E-commerce sobre la venta de componentes de computadora. Me base en un diseño que le sirva al usuario para poder navegar 
-facilmente por las categorias. No incluí nada extra por npm.
+
+El proyecto es sobre un E-commerce sobre la venta de componentes de computadora y perifericos. Me base en un diseño que le sirva al usuario para poder navegar 
+facilmente por las categorias.
+
+# Arrancar el proyecto
+
+Primero se clona el repositorio, luego se hace un npm install en la consola, y desde ahi un npm start. 
 
 
 
